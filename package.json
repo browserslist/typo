@@ -1,0 +1,15 @@
+{
+  "name": "browserlist",
+  "version": "1.0.0",
+  "description": "Package to help in popular typo: browserlist instead of browserslist",
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "browserslist/browserslist",
+  "bin": "./cli.js",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  },
+  "scripts": {
+    "postinstall": "node ./warn.js"
+  }
+}
