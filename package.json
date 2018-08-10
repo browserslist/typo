@@ -4,7 +4,7 @@
   "description": "Package to help in popular typo: browserlist instead of browserslist",
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
-  "repository": "browserslist/browserslist",
+  "repository": "browserslist/typo",
   "bin": "./cli.js",
   "dependencies": {
     "chalk": "^2.4.1"
