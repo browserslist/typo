@@ -8,8 +8,5 @@
   "bin": "./cli.js",
   "dependencies": {
     "chalk": "^2.4.1"
-  },
-  "scripts": {
-    "postinstall": "node ./warn.js"
   }
 }
