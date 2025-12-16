@@ -5,8 +5,5 @@
   "author": "Andrey Sitnik <andrey@sitnik.ru>",
   "license": "MIT",
   "repository": "browserslist/typo",
-  "bin": "./cli.js",
-  "dependencies": {
-    "chalk": "^2.4.1"
-  }
+  "bin": "./cli.js"
 }
